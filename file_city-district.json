@@ -1,0 +1,3309 @@
+  [
+    {
+      "id": "89",
+      "code": "AG",
+      "name": "An Giang",
+      "district": [
+        {
+          "id": "AG01",
+          "name": "TP.Long Xuyên"
+        },
+        {
+          "id": "AG02",
+          "name": "TP.Châu Đốc"
+        },
+        {
+          "id": "AG03",
+          "name": "An Phú"
+        },
+        {
+          "id": "AG04",
+          "name": "Châu Phú"
+        },
+        {
+          "id": "AG05",
+          "name": "Châu Thành"
+        },
+        {
+          "id": "AG06",
+          "name": "Chợ Mới"
+        },
+        {
+          "id": "AG07",
+          "name": "Phú Tân"
+        },
+        {
+          "id": "AG08",
+          "name": "TX.Tân Châu"
+        },
+        {
+          "id": "AG09",
+          "name": "Thoại Sơn"
+        },
+        {
+          "id": "AG10",
+          "name": "Tịnh Biên"
+        },
+        {
+          "id": "AG11",
+          "name": "Tri Tôn"
+        }
+      ]
+    },
+    {
+      "id": "60",
+      "code": "BA",
+      "name": "Bình Thuận",
+      "district": [
+        {
+          "id": "BA01",
+          "name": "TP.Phan Thiết"
+        },
+        {
+          "id": "BA02",
+          "name": "TX.La Gi"
+        },
+        {
+          "id": "BA03",
+          "name": "Bắc Bình"
+        },
+        {
+          "id": "BA04",
+          "name": "Đức Linh"
+        },
+        {
+          "id": "BA05",
+          "name": "Hàm Tân"
+        },
+        {
+          "id": "BA06",
+          "name": "Hàm Thuận Bắc"
+        },
+        {
+          "id": "BA07",
+          "name": "Hàm Thuận Nam"
+        },
+        {
+          "id": "BA08",
+          "name": "Tánh Linh"
+        },
+        {
+          "id": "BA09",
+          "name": "Tuy Phong"
+        },
+        {
+          "id": "BA10",
+          "name": "Đảo Phú Quý"
+        }
+      ]
+    },
+    {
+      "id": "74",
+      "code": "BD",
+      "name": "Bình Dương",
+      "district": [
+        {
+          "id": "BD01",
+          "name": "TP.Thủ Dầu Một "
+        },
+        {
+          "id": "BD02",
+          "name": "TX.Dĩ An"
+        },
+        {
+          "id": "BD03",
+          "name": "TX.Thuận An"
+        },
+        {
+          "id": "BD04",
+          "name": "TX.Bến Cát"
+        },
+        {
+          "id": "BD05",
+          "name": "TX.Tân Uyên"
+        },
+        {
+          "id": "BD06",
+          "name": "Bầu Bàng"
+        },
+        {
+          "id": "BD07",
+          "name": "Bắc Tân Uyên"
+        },
+        {
+          "id": "BD08",
+          "name": "Dầu Tiếng"
+        },
+        {
+          "id": "BD09",
+          "name": "Phú Giáo"
+        }
+      ]
+    },
+    {
+      "id": "24",
+      "code": "BG",
+      "name": "Bắc Giang",
+      "district": [
+        {
+          "id": "BG01",
+          "name": "TP.Bắc Giang"
+        },
+        {
+          "id": "BG02",
+          "name": "Hiệp Hòa"
+        },
+        {
+          "id": "BG03",
+          "name": "Lạng Giang"
+        },
+        {
+          "id": "BG04",
+          "name": "Lục Nam"
+        },
+        {
+          "id": "BG05",
+          "name": "Lục Ngạn"
+        },
+        {
+          "id": "BG06",
+          "name": "Sơn Động"
+        },
+        {
+          "id": "BG07",
+          "name": "Tân Yên"
+        },
+        {
+          "id": "BG08",
+          "name": "Việt Yên"
+        },
+        {
+          "id": "BG09",
+          "name": "Yên Dũng"
+        },
+        {
+          "id": "BG10",
+          "name": "Yên Thế"
+        }
+      ]
+    },
+    {
+      "id": "52",
+      "code": "BI",
+      "name": "Bình Định",
+      "district": [
+        {
+          "id": "BI01",
+          "name": "TP.Quy Nhơn"
+        },
+        {
+          "id": "BI02",
+          "name": "TX.An Nhơn"
+        },
+        {
+          "id": "BI03",
+          "name": "An Lão"
+        },
+        {
+          "id": "BI04",
+          "name": "Hoài Ân"
+        },
+        {
+          "id": "BI05",
+          "name": "Hoài Nhơn"
+        },
+        {
+          "id": "BI06",
+          "name": "Phù Cát"
+        },
+        {
+          "id": "BI07",
+          "name": "Phù Mỹ"
+        },
+        {
+          "id": "BI08",
+          "name": "Tây Sơn"
+        },
+        {
+          "id": "BI09",
+          "name": "Tuy Phước"
+        },
+        {
+          "id": "BI10",
+          "name": "Vân Canh"
+        },
+        {
+          "id": "BI11",
+          "name": "Vĩnh Thạnh"
+        }
+      ]
+    },
+    {
+      "id": "6",
+      "code": "BK",
+      "name": "Bắc Kạn",
+      "district": [
+        {
+          "id": "BK01",
+          "name": "TP.Bắc Kạn"
+        },
+        {
+          "id": "BK02",
+          "name": "Ba Bể"
+        },
+        {
+          "id": "BK03",
+          "name": "Bạch Thông"
+        },
+        {
+          "id": "BK04",
+          "name": "Chợ Đồn"
+        },
+        {
+          "id": "BK05",
+          "name": "Chợ Mới"
+        },
+        {
+          "id": "BK06",
+          "name": "Na Rì"
+        },
+        {
+          "id": "BK07",
+          "name": "Ngân Sơn"
+        },
+        {
+          "id": "BK08",
+          "name": "Pác Nặm"
+        }
+      ]
+    },
+    {
+      "id": "95",
+      "code": "BL",
+      "name": "Bạc Liêu",
+      "district": [
+        {
+          "id": "BL01",
+          "name": "TP.Bạc Liêu"
+        },
+        {
+          "id": "BL02",
+          "name": "Giá Rai"
+        },
+        {
+          "id": "BL03",
+          "name": "Đông Hải"
+        },
+        {
+          "id": "BL04",
+          "name": "Hòa Bình"
+        },
+        {
+          "id": "BL05",
+          "name": "Hồng Dân"
+        },
+        {
+          "id": "BL06",
+          "name": "Phước Long"
+        },
+        {
+          "id": "BL07",
+          "name": "Vĩnh Lợi"
+        }
+      ]
+    },
+    {
+      "id": "27",
+      "code": "BN",
+      "name": "Bắc Ninh",
+      "district": [
+        {
+          "id": "BN01",
+          "name": "TP.Bắc Ninh"
+        },
+        {
+          "id": "BN02",
+          "name": "Từ Sơn"
+        },
+        {
+          "id": "BN03",
+          "name": "Gia Bình"
+        },
+        {
+          "id": "BN04",
+          "name": "Lương Tài"
+        },
+        {
+          "id": "BN05",
+          "name": "Quế Võ"
+        },
+        {
+          "id": "BN06",
+          "name": "Thuận Thành"
+        },
+        {
+          "id": "BN07",
+          "name": "Tiên Du"
+        },
+        {
+          "id": "BN08",
+          "name": "Yên Phong"
+        }
+      ]
+    },
+    {
+      "id": "70",
+      "code": "BP",
+      "name": "Bình Phước",
+      "district": [
+        {
+          "id": "BP01",
+          "name": "TX.Đồng Xoài"
+        },
+        {
+          "id": "BP02",
+          "name": "TX.Bình Long"
+        },
+        {
+          "id": "BP03",
+          "name": "TX.Phước Long"
+        },
+        {
+          "id": "BP04",
+          "name": "Bù Đăng"
+        },
+        {
+          "id": "BP05",
+          "name": "Bù Đốp"
+        },
+        {
+          "id": "BP06",
+          "name": "Bù Gia Mập"
+        },
+        {
+          "id": "BP07",
+          "name": "Chơn Thành"
+        },
+        {
+          "id": "BP08",
+          "name": "Đồng Phú"
+        },
+        {
+          "id": "BP09",
+          "name": "Hớn Quản"
+        },
+        {
+          "id": "BP10",
+          "name": "Lộc Ninh"
+        },
+        {
+          "id": "BP11",
+          "name": "Phú Riềng"
+        }
+      ]
+    },
+    {
+      "id": "83",
+      "code": "BT",
+      "name": "Bến Tre",
+      "district": [
+        {
+          "id": "BT01",
+          "name": "TP.Bến Tre"
+        },
+        {
+          "id": "BT02",
+          "name": "Ba Tri"
+        },
+        {
+          "id": "BT03",
+          "name": "Bình Đại"
+        },
+        {
+          "id": "BT04",
+          "name": "Châu Thành"
+        },
+        {
+          "id": "BT05",
+          "name": "Chợ Lách"
+        },
+        {
+          "id": "BT06",
+          "name": "Giồng Trôm"
+        },
+        {
+          "id": "BT07",
+          "name": "Mỏ Cày Bắc"
+        },
+        {
+          "id": "BT08",
+          "name": "Mỏ Cày Nam"
+        },
+        {
+          "id": "BT09",
+          "name": "Thạch Phú"
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "code": "CB",
+      "name": "Cao Bằng",
+      "district": [
+        {
+          "id": "CB01",
+          "name": "TP.Cao Bằng"
+        },
+        {
+          "id": "CB02",
+          "name": "Bảo Lạc"
+        },
+        {
+          "id": "CB03",
+          "name": "Bảo Lâm"
+        },
+        {
+          "id": "CB04",
+          "name": "Hà Quảng"
+        },
+        {
+          "id": "CB05",
+          "name": "Hạ Lang"
+        },
+        {
+          "id": "CB06",
+          "name": "Hòa An"
+        },
+        {
+          "id": "CB07",
+          "name": "Nguyên Bình"
+        },
+        {
+          "id": "CB08",
+          "name": "Phục Hòa"
+        },
+        {
+          "id": "CB09",
+          "name": "Quảng Uyên"
+        },
+        {
+          "id": "CB10",
+          "name": "Thạch An"
+        },
+        {
+          "id": "CB11",
+          "name": "Thông Nông"
+        },
+        {
+          "id": "CB12",
+          "name": "Trà Lĩnh"
+        },
+        {
+          "id": "CB13",
+          "name": "Trùng Khánh"
+        }
+      ]
+    },
+    {
+      "id": "96",
+      "code": "CM",
+      "name": "Cà Mau",
+      "district": [
+        {
+          "id": "CM01",
+          "name": "TP.Cà Mau"
+        },
+        {
+          "id": "CM02",
+          "name": "Cái Nước"
+        },
+        {
+          "id": "CM03",
+          "name": "Đầm Dơi"
+        },
+        {
+          "id": "CM04",
+          "name": "Năm Căn"
+        },
+        {
+          "id": "CM05",
+          "name": "Ngọc Hiển"
+        },
+        {
+          "id": "CM06",
+          "name": "Phú Tân"
+        },
+        {
+          "id": "CM07",
+          "name": "Thới Bình"
+        },
+        {
+          "id": "CM08",
+          "name": "Trần Văn Thời"
+        },
+        {
+          "id": "CM09",
+          "name": "U Minh"
+        }
+      ]
+    },
+    {
+      "id": "92",
+      "code": "CT",
+      "name": "Cần Thơ",
+      "district": [
+        {
+          "id": "CT01",
+          "name": "Q.Ninh Kiều"
+        },
+        {
+          "id": "CT02",
+          "name": "Q.Bình Thủy"
+        },
+        {
+          "id": "CT03",
+          "name": "Q.Cái Răng"
+        },
+        {
+          "id": "CT04",
+          "name": "Q.Ô Môn"
+        },
+        {
+          "id": "CT05",
+          "name": "Q.Thốt Nốt"
+        },
+        {
+          "id": "CT06",
+          "name": "Cờ Đỏ"
+        },
+        {
+          "id": "CT07",
+          "name": "Phong Điền"
+        },
+        {
+          "id": "CT08",
+          "name": "Thái Lai"
+        },
+        {
+          "id": "CT09",
+          "name": "Vĩnh Thạch"
+        }
+      ]
+    },
+    {
+      "id": "11",
+      "code": "DB",
+      "name": "Điện Biên",
+      "district": [
+        {
+          "id": "DB01",
+          "name": "TP.Điện Biên Phủ"
+        },
+        {
+          "id": "DB02",
+          "name": "TX.Mường Lay"
+        },
+        {
+          "id": "DB03",
+          "name": "Điện Biên"
+        },
+        {
+          "id": "DB04",
+          "name": "Điện Biên Đông"
+        },
+        {
+          "id": "DB05",
+          "name": "Mường Ảng"
+        },
+        {
+          "id": "DB06",
+          "name": "Mường Chà"
+        },
+        {
+          "id": "DB07",
+          "name": "Mường Nhé"
+        },
+        {
+          "id": "DB08",
+          "name": "Nậm Pồ"
+        },
+        {
+          "id": "DB09",
+          "name": "Tủa Chùa"
+        },
+        {
+          "id": "DB10",
+          "name": "Tuần Giáo"
+        }
+      ]
+    },
+    {
+      "id": "75",
+      "code": "DG",
+      "name": "Đồng Nai",
+      "district": [
+        {
+          "id": "DG01",
+          "name": "TP.Biên Hòa"
+        },
+        {
+          "id": "DG02",
+          "name": "TX.Long Khánh"
+        },
+        {
+          "id": "DG03",
+          "name": "Cẩm Mỹ"
+        },
+        {
+          "id": "DG04",
+          "name": "Định Quán"
+        },
+        {
+          "id": "DG05",
+          "name": "Long Thành"
+        },
+        {
+          "id": "DG06",
+          "name": "Nhơn Trạch"
+        },
+        {
+          "id": "DG07",
+          "name": "Tân Phú"
+        },
+        {
+          "id": "DG08",
+          "name": "Thống Nhất"
+        },
+        {
+          "id": "DG09",
+          "name": "Trảng Bom"
+        },
+        {
+          "id": "DG10",
+          "name": "Vĩnh Cửu"
+        },
+        {
+          "id": "DG10",
+          "name": "Xuân Lộc"
+        }
+      ]
+    },
+    {
+      "id": "66",
+      "code": "DL",
+      "name": "Đắk Lắk ",
+      "district": [
+        {
+          "id": "DL01",
+          "name": "TP.Buôn Ma Thuật"
+        },
+        {
+          "id": "DL02",
+          "name": "TX.Buôn Hồ"
+        },
+        {
+          "id": "DL03",
+          "name": "Huyện Buôn Đôn"
+        },
+        {
+          "id": "DL04",
+          "name": "Cư Kuin"
+        },
+        {
+          "id": "DL05",
+          "name": "Cư M Gar"
+        },
+        {
+          "id": "DL06",
+          "name": "Ea Hleo"
+        },
+        {
+          "id": "DL07",
+          "name": "Ea Kar"
+        },
+        {
+          "id": "DL08",
+          "name": "Ea Súp"
+        },
+        {
+          "id": "DL09",
+          "name": "Krông Ana"
+        },
+        {
+          "id": "DL10",
+          "name": "Krông Bông"
+        },
+        {
+          "id": "DL11",
+          "name": "Krông Búk"
+        },
+        {
+          "id": "DL12",
+          "name": "Krông Năng"
+        },
+        {
+          "id": "DL13",
+          "name": "Krông Pắk"
+        },
+        {
+          "id": "DL14",
+          "name": "Lắk"
+        },
+        {
+          "id": "DL15",
+          "name": "M Đrăk"
+        }
+      ]
+    },
+    {
+      "id": "67",
+      "code": "DM",
+      "name": "Đắk Nông",
+      "district": [
+        {
+          "id": "DM01",
+          "name": "TX.Gia Nghĩa"
+        },
+        {
+          "id": "DM02",
+          "name": "Cư Jút"
+        },
+        {
+          "id": "DM03",
+          "name": "Đắk Glong"
+        },
+        {
+          "id": "DM04",
+          "name": "Đắk Mil"
+        },
+        {
+          "id": "DM05",
+          "name": "Đắk R Lấp"
+        },
+        {
+          "id": "DM06",
+          "name": "Đăk Song"
+        },
+        {
+          "id": "DM07",
+          "name": "Krông Nô"
+        },
+        {
+          "id": "DM08",
+          "name": "Tuy Đức"
+        }
+      ]
+    },
+    {
+      "id": "48",
+      "code": "DN",
+      "name": "TP.Đà Nẵng",
+      "district": [
+        {
+          "id": "DN01",
+          "name": "Q.Hải Châu"
+        },
+        {
+          "id": "DN02",
+          "name": "Q.Thanh Khê"
+        },
+        {
+          "id": "DN03",
+          "name": "Q.Sơn Trà"
+        },
+        {
+          "id": "DN04",
+          "name": "Q.Ngũ Hành Sơn"
+        },
+        {
+          "id": "DN05",
+          "name": "Q.Liên Chiểu"
+        },
+        {
+          "id": "DN06",
+          "name": "Hòa Vang"
+        },
+        {
+          "id": "DN07",
+          "name": "Q.Cẩm Lệ"
+        },
+        {
+          "id": "DN08",
+          "name": "Hoàng Sa"
+        }
+      ]
+    },
+    {
+      "id": "87",
+      "code": "DT",
+      "name": "Đồng Tháp",
+      "district": [
+        {
+          "id": "DT01",
+          "name": "TP. Sa Đéc"
+        },
+        {
+          "id": "DT02",
+          "name": "TP.Cao Lãnh"
+        },
+        {
+          "id": "DT03",
+          "name": "TX.Hồng Ngự"
+        },
+        {
+          "id": "DT04",
+          "name": "Châu Thành"
+        },
+        {
+          "id": "DT05",
+          "name": "Hồng Ngự"
+        },
+        {
+          "id": "DT06",
+          "name": "Lai Vung"
+        },
+        {
+          "id": "DT07",
+          "name": "Lấp Vò"
+        },
+        {
+          "id": "DT08",
+          "name": "Tam Nông"
+        },
+        {
+          "id": "DT09",
+          "name": "Tân Hồng"
+        },
+        {
+          "id": "DT10",
+          "name": "Thanh Bình"
+        },
+        {
+          "id": "DT11",
+          "name": "Tháp Mười"
+        },
+        {
+          "id": "DT12",
+          "name": "Cao Lãnh"
+        }
+      ]
+    },
+    {
+      "id": "64",
+      "code": "GL",
+      "name": "Gia Lai",
+      "district": [
+        {
+          "id": "GL01",
+          "name": "TP.Pleiku"
+        },
+        {
+          "id": "GL02",
+          "name": "TX.An Khê"
+        },
+        {
+          "id": "GL03",
+          "name": "TX.Ayun Pa"
+        },
+        {
+          "id": "GL04",
+          "name": "Chư Păh"
+        },
+        {
+          "id": "GL05",
+          "name": "Chư Prông"
+        },
+        {
+          "id": "GL06",
+          "name": "Chư Pưh"
+        },
+        {
+          "id": "GL07",
+          "name": "Chư Sê"
+        },
+        {
+          "id": "GL08",
+          "name": "Đắk Đoa"
+        },
+        {
+          "id": "GL09",
+          "name": "Đắk Pơ"
+        },
+        {
+          "id": "GL10",
+          "name": "Đức Cơ"
+        },
+        {
+          "id": "GL11",
+          "name": "La Grai"
+        },
+        {
+          "id": "GL12",
+          "name": "La Pa"
+        },
+        {
+          "id": "GL13",
+          "name": "Kbang"
+        },
+        {
+          "id": "GL14",
+          "name": "Kông Chro"
+        },
+        {
+          "id": "GL15",
+          "name": "Krông Pa"
+        },
+        {
+          "id": "GL16",
+          "name": "Mang Yang"
+        },
+        {
+          "id": "GL17",
+          "name": "Phú Thiện"
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "code": "HA",
+      "name": "Hà Giang",
+      "district": [
+        {
+          "id": "HA01",
+          "name": "TP.Hà Giang"
+        },
+        {
+          "id": "HA02",
+          "name": "Bắc Mê"
+        },
+        {
+          "id": "HA03",
+          "name": "Bắc Quang"
+        },
+        {
+          "id": "HA04",
+          "name": "Đồng Văn"
+        },
+        {
+          "id": "HA05",
+          "name": "Hoàng Su Phì"
+        },
+        {
+          "id": "HA06",
+          "name": "Mèo Vạc"
+        },
+        {
+          "id": "HA07",
+          "name": "Quản Bạ"
+        },
+        {
+          "id": "HA08",
+          "name": "Quang Bình"
+        },
+        {
+          "id": "HA09",
+          "name": "Vị Xuyên"
+        },
+        {
+          "id": "HA10",
+          "name": "Xín Mần"
+        },
+        {
+          "id": "HA11",
+          "name": "Yên Minh"
+        }
+      ]
+    },
+    {
+      "id": "17",
+      "code": "HB",
+      "name": "Hòa Bình",
+      "district": [
+        {
+          "id": "HB01",
+          "name": "TP.Hòa Bình"
+        },
+        {
+          "id": "HB02",
+          "name": "Cao Phong"
+        },
+        {
+          "id": "HB03",
+          "name": "Đà Bắc"
+        },
+        {
+          "id": "HB04",
+          "name": "Kim Bôi"
+        },
+        {
+          "id": "HB05",
+          "name": "Kỳ Sơn"
+        },
+        {
+          "id": "HB06",
+          "name": "Lạc Sơn"
+        },
+        {
+          "id": "HB07",
+          "name": "Lạc Thủy"
+        },
+        {
+          "id": "HB08",
+          "name": "Lương Sơn"
+        },
+        {
+          "id": "HB09",
+          "name": "Mai Châu"
+        },
+        {
+          "id": "HB10",
+          "name": "Tân Lạc"
+        },
+        {
+          "id": "HB11",
+          "name": "Yên Thủy"
+        }
+      ]
+    },
+    {
+      "id": "79",
+      "code": "HC",
+      "name": "TP.Hồ Chí Minh",
+      "district": [
+        {
+          "id": "HC01",
+          "name": "Q.1",
+          "detail": "Q1/Quận 1"
+        },
+        {
+          "id": "HC02",
+          "name": "Q.2",
+          "detail": "Q2/Quận 2"
+        },
+        {
+          "id": "HC03",
+          "name": "Q.3",
+          "detail": "Q3/Quận 3"
+        },
+        {
+          "id": "HC04",
+          "name": "Q.4",
+          "detail": "Q4/Quận 4"
+        },
+        {
+          "id": "HC05",
+          "name": "Q.5",
+          "detail": "Q5/Quận 5"
+        },
+        {
+          "id": "HC06",
+          "name": "Q.6",
+          "detail": "Q6/Quận 6"
+        },
+        {
+          "id": "HC07",
+          "name": "Q.7",
+          "detail": "Q7/Quận 7"
+        },
+        {
+          "id": "HC08",
+          "name": "Q.8",
+          "detail": "Q8/Quận 8"
+        },
+        {
+          "id": "HC09",
+          "name": "Q.9",
+          "detail": "Q9/Quận 9"
+        },
+        {
+          "id": "HC10",
+          "name": "Q.10",
+          "detail": "Q10/Quận 10"
+        },
+        {
+          "id": "HC11",
+          "name": "Q.11",
+          "detail": "Q11/Quận 11"
+        },
+        {
+          "id": "HC12",
+          "name": "Q.12",
+          "detail": "Q12/Quận 12"
+        },
+        {
+          "id": "HC13",
+          "name": "Q.Bình Tân"
+        },
+        {
+          "id": "HC14",
+          "name": "Q.Bình Thạnh"
+        },
+        {
+          "id": "HC15",
+          "name": "Q.Gò Vấp"
+        },
+        {
+          "id": "HC16",
+          "name": "Q.Phú Nhuận"
+        },
+        {
+          "id": "HC17",
+          "name": "Q.Tân Bình"
+        },
+        {
+          "id": "HC18",
+          "name": "Q.Tân Phú"
+        },
+        {
+          "id": "HC19",
+          "name": "Q.Thủ Đức"
+        },
+        {
+          "id": "HC20",
+          "name": "Bình Chánh"
+        },
+        {
+          "id": "HC21",
+          "name": "Cần Giờ"
+        },
+        {
+          "id": "HC22",
+          "name": "Củ Chi"
+        },
+        {
+          "id": "HC23",
+          "name": "Hóc Môn"
+        },
+        {
+          "id": "HC24",
+          "name": "Nhà Bè"
+        }
+      ]
+    },
+    {
+      "id": "30",
+      "code": "HD",
+      "name": "Hải Dương",
+      "district": [
+        {
+          "id": "HD01",
+          "name": "TP.Hải Dương"
+        },
+        {
+          "id": "HD02",
+          "name": "TX.Chí Linh"
+        },
+        {
+          "id": "HD03",
+          "name": "Bình Giang"
+        },
+        {
+          "id": "HD04",
+          "name": "Cẩm Giàng"
+        },
+        {
+          "id": "HD05",
+          "name": "Gia Lộc"
+        },
+        {
+          "id": "HD06",
+          "name": "Kim Thành"
+        },
+        {
+          "id": "HD07",
+          "name": "Kinh Môn"
+        },
+        {
+          "id": "HD08",
+          "name": "Nam Sách"
+        },
+        {
+          "id": "HD09",
+          "name": "Ninh Giang"
+        },
+        {
+          "id": "HD10",
+          "name": "Thanh Hà"
+        },
+        {
+          "id": "HD11",
+          "name": "Thanh Miện"
+        },
+        {
+          "id": "HD12",
+          "name": "Tứ Kỳ"
+        }
+      ]
+    },
+    {
+      "id": "93",
+      "code": "HG",
+      "name": "Hậu Giang",
+      "district": [
+        {
+          "id": "HG01",
+          "name": "TP.Vị Thanh"
+        },
+        {
+          "id": "HG02",
+          "name": "TX.Ngã Bảy"
+        },
+        {
+          "id": "HG03",
+          "name": "TX.Long Mỹ"
+        },
+        {
+          "id": "HG04",
+          "name": "Châu Thành"
+        },
+        {
+          "id": "HG05",
+          "name": "Châu Thành A"
+        },
+        {
+          "id": "HG06",
+          "name": "Long Mỹ"
+        },
+        {
+          "id": "HG07",
+          "name": "Phụng Hiệp"
+        },
+        {
+          "id": "HG08",
+          "name": "Vị Thủy"
+        }
+      ]
+    },
+    {
+      "id": "35",
+      "code": "HM",
+      "name": "Hà Nam",
+      "district": [
+        {
+          "id": "HM01",
+          "name": "TP.Phủ Lý"
+        },
+        {
+          "id": "HM02",
+          "name": "Bình Lục"
+        },
+        {
+          "id": "HM03",
+          "name": "Duy Tiên"
+        },
+        {
+          "id": "HM04",
+          "name": "Kim Bảng"
+        },
+        {
+          "id": "HM05",
+          "name": "Lý Nhân"
+        },
+        {
+          "id": "HM06",
+          "name": "Thanh Liêm"
+        }
+      ]
+    },
+    {
+      "id": "1",
+      "code": "HN",
+      "name": "TP.Hà Nội",
+      "district": [
+        {
+          "id": "HN01",
+          "name": "Q.Ba Đình"
+        },
+        {
+          "id": "HN02",
+          "name": "Q.Bắc Từ Liêm"
+        },
+        {
+          "id": "HN03",
+          "name": "Q.Cầu Giấy"
+        },
+        {
+          "id": "HN04",
+          "name": "Q.Đống Đa"
+        },
+        {
+          "id": "HN05",
+          "name": "Q.Hà Đông"
+        },
+        {
+          "id": "HN06",
+          "name": "Q.Hai Bà Trưng"
+        },
+        {
+          "id": "HN07",
+          "name": "Q.Hoàn Kiếm"
+        },
+        {
+          "id": "HN08",
+          "name": "Q.Hoàng Mai"
+        },
+        {
+          "id": "HN09",
+          "name": "Q.Long Biên"
+        },
+        {
+          "id": "HN10",
+          "name": "Q.Nam Từ Liêm"
+        },
+        {
+          "id": "HN11",
+          "name": "Q.Tây Hồ"
+        },
+        {
+          "id": "HN12",
+          "name": "Q.Thanh Xuân"
+        },
+        {
+          "id": "HN13",
+          "name": "TX.Sơn Tây"
+        },
+        {
+          "id": "HN14",
+          "name": "Ba Vì"
+        },
+        {
+          "id": "HN15",
+          "name": "Chương Mỹ"
+        },
+        {
+          "id": "HN16",
+          "name": "Đan Phượng"
+        },
+        {
+          "id": "HN17",
+          "name": "Đông Anh"
+        },
+        {
+          "id": "HN18",
+          "name": "Gia Lâm"
+        },
+        {
+          "id": "HN19",
+          "name": "Hoài Đức"
+        },
+        {
+          "id": "HN20",
+          "name": "Mê Linh"
+        },
+        {
+          "id": "HN21",
+          "name": "Mỹ Đức"
+        },
+        {
+          "id": "HN22",
+          "name": "Phú Xuyên"
+        },
+        {
+          "id": "HN23",
+          "name": "Phúc Thọ"
+        },
+        {
+          "id": "HN24",
+          "name": "Quốc Oai"
+        },
+        {
+          "id": "HN25",
+          "name": "Sóc Sơn"
+        },
+        {
+          "id": "HN26",
+          "name": "Thạch Thất"
+        },
+        {
+          "id": "HN27",
+          "name": "Thanh Oai"
+        },
+        {
+          "id": "HN28",
+          "name": "Thanh Trì"
+        },
+        {
+          "id": "HN29",
+          "name": "Thường Tín"
+        },
+        {
+          "id": "HN30",
+          "name": "Ứng Hòa"
+        }
+      ]
+    },
+    {
+      "id": "31",
+      "code": "HP",
+      "name": "TP.Hải phòng",
+      "district": [
+        {
+          "id": "HP01",
+          "name": "Q.Dương Kinh"
+        },
+        {
+          "id": "HP02",
+          "name": "TX.Hồng Lĩnh"
+        },
+        {
+          "id": "HP03",
+          "name": "Q.Đồ Sơn"
+        },
+        {
+          "id": "HP04",
+          "name": "Q.Hải An"
+        },
+        {
+          "id": "HP05",
+          "name": "Q.Hồng Bàng"
+        },
+        {
+          "id": "HP06",
+          "name": "Q.Kiến An"
+        },
+        {
+          "id": "HP07",
+          "name": "Q.Lê Chân"
+        },
+        {
+          "id": "HP08",
+          "name": "Q.Ngô Quyền"
+        },
+        {
+          "id": "HP09",
+          "name": "An Dương"
+        },
+        {
+          "id": "HP10",
+          "name": "An Lão"
+        },
+        {
+          "id": "HP11",
+          "name": "Kiến Thụy"
+        },
+        {
+          "id": "HP12",
+          "name": "Thủy Nguyên"
+        },
+        {
+          "id": "HP13",
+          "name": "Tiên Lãng"
+        },
+        {
+          "id": "HP14",
+          "name": "Vĩnh Bảo"
+        },
+        {
+          "id": "HP15",
+          "name": "Bạch Long Vĩ"
+        },
+        {
+          "id": "HP16",
+          "name": "Cát Hải"
+        }
+      ]
+    },
+    {
+      "id": "42",
+      "code": "HT",
+      "name": "Hà Tĩnh",
+      "district": [
+        {
+          "id": "HT01",
+          "name": "TP.Hà Tĩnh"
+        },
+        {
+          "id": "HT02",
+          "name": "TX.Hồng Lĩnh"
+        },
+        {
+          "id": "HT03",
+          "name": "TX.Kỳ Anh"
+        },
+        {
+          "id": "HT04",
+          "name": "Can Lộc"
+        },
+        {
+          "id": "HT05",
+          "name": "Cẩm Xuyên"
+        },
+        {
+          "id": "HT06",
+          "name": "Đức Thọ"
+        },
+        {
+          "id": "HT07",
+          "name": "Hương Khê"
+        },
+        {
+          "id": "HT08",
+          "name": "Hương Sơn"
+        },
+        {
+          "id": "HT09",
+          "name": "Kỳ Anh"
+        },
+        {
+          "id": "HT10",
+          "name": "Lộc Hà"
+        },
+        {
+          "id": "HT11",
+          "name": "Nghi Xuân"
+        },
+        {
+          "id": "HT12",
+          "name": "Thạch Hà"
+        },
+        {
+          "id": "HT13",
+          "name": "Vũ Quang"
+        }
+      ]
+    },
+    {
+      "id": "33",
+      "code": "HY",
+      "name": "Hưng Yên",
+      "district": [
+        {
+          "id": "HY01",
+          "name": "TP.Hưng Yên"
+        },
+        {
+          "id": "HY02",
+          "name": "Ân Thi"
+        },
+        {
+          "id": "HY03",
+          "name": "Khoái Châu"
+        },
+        {
+          "id": "HY04",
+          "name": "Kim Động"
+        },
+        {
+          "id": "HY05",
+          "name": "Mỹ Hào"
+        },
+        {
+          "id": "HY06",
+          "name": "Phù Cừ"
+        },
+        {
+          "id": "HY07",
+          "name": "Tiên Lữ"
+        },
+        {
+          "id": "HY08",
+          "name": "Văn Giang"
+        },
+        {
+          "id": "HY09",
+          "name": "Văn Lâm"
+        },
+        {
+          "id": "HY10",
+          "name": "Yên Mỹ"
+        }
+      ]
+    },
+    {
+      "id": "91",
+      "code": "KG",
+      "name": "Kiên Giang",
+      "district": [
+        {
+          "id": "KG01",
+          "name": "TP.Rạch Giá"
+        },
+        {
+          "id": "KG02",
+          "name": "TX.Hà Tiên"
+        },
+        {
+          "id": "KG03",
+          "name": "An Biên"
+        },
+        {
+          "id": "KG04",
+          "name": "An Minh"
+        },
+        {
+          "id": "KG05",
+          "name": "Châu Thành"
+        },
+        {
+          "id": "KG06",
+          "name": "Giang Thành"
+        },
+        {
+          "id": "KG07",
+          "name": "Giồng Riềng"
+        },
+        {
+          "id": "KG08",
+          "name": "Gò Quao"
+        },
+        {
+          "id": "KG09",
+          "name": "Hòn Đất"
+        },
+        {
+          "id": "KG10",
+          "name": "Kiên Lương"
+        },
+        {
+          "id": "KG11",
+          "name": "Tân Hiệp"
+        },
+        {
+          "id": "KG12",
+          "name": "U Minh Thượng"
+        },
+        {
+          "id": "KG13",
+          "name": "Vĩnh Thuận"
+        },
+        {
+          "id": "KG14",
+          "name": "Phú Quốc"
+        },
+        {
+          "id": "KG15",
+          "name": "Kiên Hải"
+        }
+      ]
+    },
+    {
+      "id": "56",
+      "code": "KH",
+      "name": "Khánh Hòa",
+      "district": [
+        {
+          "id": "KH01",
+          "name": "TP.Nha Trang"
+        },
+        {
+          "id": "KH02",
+          "name": "TP.Cam Ranh"
+        },
+        {
+          "id": "KH03",
+          "name": "TX.Ninh Hòa"
+        },
+        {
+          "id": "KH04",
+          "name": "Cam Lâm"
+        },
+        {
+          "id": "KH05",
+          "name": "Diên Khánh"
+        },
+        {
+          "id": "KH06",
+          "name": "Khánh Sơn"
+        },
+        {
+          "id": "KH07",
+          "name": "Khánh Vĩnh"
+        },
+        {
+          "id": "KH08",
+          "name": "Vạn Ninh"
+        },
+        {
+          "id": "KH09",
+          "name": "Trường Sa"
+        }
+      ]
+    },
+    {
+      "id": "62",
+      "code": "KT",
+      "name": "Kon Tum",
+      "district": [
+        {
+          "id": "KT01",
+          "name": "TP.Kon Tum"
+        },
+        {
+          "id": "KT02",
+          "name": "Đắk Glei"
+        },
+        {
+          "id": "KT03",
+          "name": "Đắk Hà"
+        },
+        {
+          "id": "KT04",
+          "name": "Đăk Tô"
+        },
+        {
+          "id": "KT05",
+          "name": "La H'Drai"
+        },
+        {
+          "id": "KT06",
+          "name": "Kon Plông"
+        },
+        {
+          "id": "KT07",
+          "name": "Kon Rẫy"
+        },
+        {
+          "id": "KT08",
+          "name": "Ngọc Hồi"
+        },
+        {
+          "id": "KT09",
+          "name": "Sa Thầy"
+        },
+        {
+          "id": "KT10",
+          "name": "Tu Mơ Rông"
+        }
+      ]
+    },
+    {
+      "id": "80",
+      "code": "LA",
+      "name": "Long An",
+      "district": [
+        {
+          "id": "LA01",
+          "name": "TP.Tân An"
+        },
+        {
+          "id": "LA02",
+          "name": "TX.Kiến Tường"
+        },
+        {
+          "id": "LA03",
+          "name": "Bến Lức"
+        },
+        {
+          "id": "LA04",
+          "name": "Cần Đước"
+        },
+        {
+          "id": "LA05",
+          "name": "Cần Giuộc"
+        },
+        {
+          "id": "LA06",
+          "name": "Châu Thành"
+        },
+        {
+          "id": "LA07",
+          "name": "Đức Hòa"
+        },
+        {
+          "id": "LA08",
+          "name": "Đức Huệ"
+        },
+        {
+          "id": "LA09",
+          "name": "Mộc Hóa"
+        },
+        {
+          "id": "LA10",
+          "name": "Tân Hưng"
+        },
+        {
+          "id": "LA11",
+          "name": "Tân Thạch"
+        },
+        {
+          "id": "LA12",
+          "name": "Tân Trụ"
+        },
+        {
+          "id": "LA13",
+          "name": "Thạch Hóa"
+        },
+        {
+          "id": "LA14",
+          "name": "Thủ Thừa"
+        },
+        {
+          "id": "LA15",
+          "name": "Vĩnh Hưng"
+        }
+      ]
+    },
+    {
+      "id": "10",
+      "code": "LC",
+      "name": "Lào Cai",
+      "district": [
+        {
+          "id": "LC01",
+          "name": "TP.Lào Cai"
+        },
+        {
+          "id": "LC02",
+          "name": "Bảo Thắng"
+        },
+        {
+          "id": "LC03",
+          "name": "Bảo Yên"
+        },
+        {
+          "id": "LC04",
+          "name": "Bát Xát"
+        },
+        {
+          "id": "LC05",
+          "name": "Bắc Hà"
+        },
+        {
+          "id": "LC06",
+          "name": "Mường Khương"
+        },
+        {
+          "id": "LC07",
+          "name": "Sa Pa"
+        },
+        {
+          "id": "LC08",
+          "name": "Si Ma Cai"
+        },
+        {
+          "id": "LC10",
+          "name": "Văn Bàn"
+        }
+      ]
+    },
+    {
+      "id": "68",
+      "code": "LD",
+      "name": "Lâm Đồng",
+      "district": [
+        {
+          "id": "LD01",
+          "name": "TP.Đà Lạt"
+        },
+        {
+          "id": "LD02",
+          "name": "TP.Bảo Lộc"
+        },
+        {
+          "id": "LD03",
+          "name": "Bảo Lâm"
+        },
+        {
+          "id": "LD04",
+          "name": "Cát Tiên"
+        },
+        {
+          "id": "LD05",
+          "name": "Di Linh"
+        },
+        {
+          "id": "LD06",
+          "name": "Đạ Huoai"
+        },
+        {
+          "id": "LD07",
+          "name": "Đạ Tẻh"
+        },
+        {
+          "id": "LD08",
+          "name": "Đam Rông"
+        },
+        {
+          "id": "LD09",
+          "name": "Đơn Dương"
+        },
+        {
+          "id": "LD10",
+          "name": "Đức Trọng"
+        },
+        {
+          "id": "LD11",
+          "name": "Hạc Dương"
+        },
+        {
+          "id": "LD12",
+          "name": "Lâm Hà"
+        }
+      ]
+    },
+    {
+      "id": "20",
+      "code": "LS",
+      "name": "Lạng Sơn",
+      "district": [
+        {
+          "id": "LS01",
+          "name": "TP.Lạng Sơn"
+        },
+        {
+          "id": "LS02",
+          "name": "Bắc Sơn"
+        },
+        {
+          "id": "LS03",
+          "name": "Bình Gia"
+        },
+        {
+          "id": "LS04",
+          "name": "Cao Lộc"
+        },
+        {
+          "id": "LS05",
+          "name": "Chi Lăng"
+        },
+        {
+          "id": "LS06",
+          "name": "Đình Lập"
+        },
+        {
+          "id": "LS07",
+          "name": "Hữu Lũng"
+        },
+        {
+          "id": "LS08",
+          "name": "Lộc Bình"
+        },
+        {
+          "id": "LS09",
+          "name": "Tràng Định"
+        },
+        {
+          "id": "LS10",
+          "name": "Vãn Lãng"
+        },
+        {
+          "id": "LS11",
+          "name": "Văn Quan"
+        }
+      ]
+    },
+    {
+      "id": "12",
+      "code": "LT",
+      "name": "Lai Châu",
+      "district": [
+        {
+          "id": "LT01",
+          "name": "TP.Lai Châu"
+        },
+        {
+          "id": "LT02",
+          "name": "Mường Tè"
+        },
+        {
+          "id": "LT03",
+          "name": "Nậm Nhùn"
+        },
+        {
+          "id": "LT04",
+          "name": "Phong Thổ"
+        },
+        {
+          "id": "LT05",
+          "name": "Sìn Hồ"
+        },
+        {
+          "id": "LT06",
+          "name": "Tam Đường"
+        },
+        {
+          "id": "LT07",
+          "name": "Tân Uyên"
+        },
+        {
+          "id": "LT08",
+          "name": "Than Uyên"
+        }
+      ]
+    },
+    {
+      "id": "40",
+      "code": "NA",
+      "name": "Nghệ An",
+      "district": [
+        {
+          "id": "NA01",
+          "name": "TP.Vinh"
+        },
+        {
+          "id": "NA02",
+          "name": "Cửa Lò"
+        },
+        {
+          "id": "NA03",
+          "name": "Hoàng Mai"
+        },
+        {
+          "id": "NA04",
+          "name": "Thái Hòa"
+        },
+        {
+          "id": "NA05",
+          "name": "Anh Sơn"
+        },
+        {
+          "id": "NA06",
+          "name": "Con Cuông"
+        },
+        {
+          "id": "NA07",
+          "name": "Diễn Châu"
+        },
+        {
+          "id": "NA08",
+          "name": "Đô Lương"
+        },
+        {
+          "id": "NA09",
+          "name": "Hưng Nguyên"
+        },
+        {
+          "id": "NA10",
+          "name": "Kỳ Sơn"
+        },
+        {
+          "id": "NA11",
+          "name": "Nam Đàn"
+        },
+        {
+          "id": "NA12",
+          "name": "Nghi Lộc"
+        },
+        {
+          "id": "NA13-Nghĩa Đàn"
+        },
+        {
+          "id": "NA14",
+          "name": "Quế Phong"
+        },
+        {
+          "id": "NA15",
+          "name": "Quỳ Châu"
+        },
+        {
+          "id": "NA16",
+          "name": "Quỳ Hợp"
+        },
+        {
+          "id": "NA17",
+          "name": "Quỳnh Lưu"
+        },
+        {
+          "id": "NA18",
+          "name": "Tân Kỳ"
+        },
+        {
+          "id": "NA19",
+          "name": "Thanh Chương"
+        },
+        {
+          "id": "NA20",
+          "name": "Tương Dương"
+        },
+        {
+          "id": "NA21",
+          "name": "Yên Thành"
+        }
+      ]
+    },
+    {
+      "id": "37",
+      "code": "NB",
+      "name": "Ninh Bình",
+      "district": [
+        {
+          "id": "NB01",
+          "name": "TP.Ninh Bình"
+        },
+        {
+          "id": "NB02",
+          "name": "TP.Tam Điệp"
+        },
+        {
+          "id": "NB03",
+          "name": "Gia Viễn"
+        },
+        {
+          "id": "NB04",
+          "name": "Hoa Lư"
+        },
+        {
+          "id": "NB05",
+          "name": "Kim Sơn"
+        },
+        {
+          "id": "NB06",
+          "name": "Nho Quan"
+        },
+        {
+          "id": "NB07",
+          "name": "Yên Khánh"
+        },
+        {
+          "id": "NB08",
+          "name": "Yên Mô"
+        }
+      ]
+    },
+    {
+      "id": "36",
+      "code": "ND",
+      "name": "Nam Định",
+      "district": [
+        {
+          "id": "ND01",
+          "name": "TP.Nam Định"
+        },
+        {
+          "id": "ND02",
+          "name": "Giao Thủy"
+        },
+        {
+          "id": "ND03",
+          "name": "Hải Hậu"
+        },
+        {
+          "id": "ND04",
+          "name": "Mỹ Lộc"
+        },
+        {
+          "id": "ND05",
+          "name": "Nam Trực"
+        },
+        {
+          "id": "ND06",
+          "name": "Nghĩa Hưng"
+        },
+        {
+          "id": "ND07",
+          "name": "Trực Ninh"
+        },
+        {
+          "id": "ND08",
+          "name": "Vụ Bản"
+        },
+        {
+          "id": "ND09",
+          "name": "Xuân Trường"
+        },
+        {
+          "id": "ND10",
+          "name": "Ý Yên"
+        }
+      ]
+    },
+    {
+      "id": "58",
+      "code": "NT",
+      "name": "Ninh Thuận",
+      "district": [
+        {
+          "id": "NT01",
+          "name": "TP.Phan NT02-Rang-Tháp Chàm"
+        },
+        {
+          "id": "NT02",
+          "name": "Bác Ái"
+        },
+        {
+          "id": "NT03",
+          "name": "Ninh Hải"
+        },
+        {
+          "id": "NT04",
+          "name": "Ninh Phước"
+        },
+        {
+          "id": "NT05",
+          "name": "Ninh Sơn"
+        },
+        {
+          "id": "NT06",
+          "name": "Thuận Bắc"
+        },
+        {
+          "id": "NT07",
+          "name": "Thuận Nam"
+        }
+      ]
+    },
+    {
+      "id": "25",
+      "code": "PT",
+      "name": "Phú Thọ",
+      "district": [
+        {
+          "id": "PT01",
+          "name": "TP.Việt Trì"
+        },
+        {
+          "id": "PT02",
+          "name": "TX.Phú Thọ"
+        },
+        {
+          "id": "PT03",
+          "name": "Cẩm Khê"
+        },
+        {
+          "id": "PT04",
+          "name": "Đoan Hùng"
+        },
+        {
+          "id": "PT05",
+          "name": "Hạ Hòa"
+        },
+        {
+          "id": "PT06",
+          "name": "Lâm Thao"
+        },
+        {
+          "id": "PT07",
+          "name": "Phù Ninh"
+        },
+        {
+          "id": "PT08",
+          "name": "Tam Nông"
+        },
+        {
+          "id": "PT09",
+          "name": "Tân Sơn"
+        },
+        {
+          "id": "PT10",
+          "name": "Thanh Ba"
+        },
+        {
+          "id": "PT11",
+          "name": "Thanh Sơn"
+        },
+        {
+          "id": "PT12",
+          "name": "Thanh Thủy"
+        },
+        {
+          "id": "PT13-Yên Lập"
+        }
+      ]
+    },
+    {
+      "id": "54",
+      "code": "PY",
+      "name": "Phú Yên",
+      "district": [
+        {
+          "id": "PY01",
+          "name": "TP.Tuy Hòa"
+        },
+        {
+          "id": "PY02",
+          "name": "TX.Sông PY03-Cầu"
+        },
+        {
+          "id": "PY03",
+          "name": "Đông Hòa"
+        },
+        {
+          "id": "PY04",
+          "name": "Đồng Xuân"
+        },
+        {
+          "id": "PY05",
+          "name": "Phú Hòa"
+        },
+        {
+          "id": "PY06",
+          "name": "Sông Hinh"
+        },
+        {
+          "id": "PY07",
+          "name": "Sơn Hòa"
+        },
+        {
+          "id": "PY08",
+          "name": "Tây Hòa"
+        },
+        {
+          "id": "PY09",
+          "name": "Tuy An"
+        }
+      ]
+    },
+    {
+      "id": "44",
+      "code": "QB",
+      "name": "Quảng Bình",
+      "district": [
+        {
+          "id": "QB01",
+          "name": "TP.Đồng Hới"
+        },
+        {
+          "id": "QB02",
+          "name": "TX.Ba Đồn"
+        },
+        {
+          "id": "QB03",
+          "name": "Bố Trạch"
+        },
+        {
+          "id": "QB04",
+          "name": "Lệ Thủy"
+        },
+        {
+          "id": "QB05",
+          "name": "Minh Hóa"
+        },
+        {
+          "id": "QB06",
+          "name": "Quảng Ninh"
+        },
+        {
+          "id": "QB07",
+          "name": "Quảng Trạch"
+        },
+        {
+          "id": "QB08",
+          "name": "Tuyên Hóa"
+        }
+      ]
+    },
+    {
+      "id": "51",
+      "code": "QG",
+      "name": "Quảng Ngãi",
+      "district": [
+        {
+          "id": "QG01",
+          "name": "TP.Quảng Ngãi"
+        },
+        {
+          "id": "QG02",
+          "name": "Ba Tơ"
+        },
+        {
+          "id": "QG03",
+          "name": "Bình Sơn"
+        },
+        {
+          "id": "QG04",
+          "name": "Đức Phố"
+        },
+        {
+          "id": "QG05",
+          "name": "Minh Long"
+        },
+        {
+          "id": "QG06",
+          "name": "Mộ Đức"
+        },
+        {
+          "id": "QG07",
+          "name": "Nghĩa Hành"
+        },
+        {
+          "id": "QG08",
+          "name": "Sơn Hà"
+        },
+        {
+          "id": "QG09",
+          "name": "Sơn Tây"
+        },
+        {
+          "id": "QG10",
+          "name": "Sơn Tịnh"
+        },
+        {
+          "id": "QG11",
+          "name": "Tây Trà"
+        },
+        {
+          "id": "QG12",
+          "name": "Trà Bông"
+        },
+        {
+          "id": "QG13",
+          "name": "Tư Nghĩa"
+        },
+        {
+          "id": "QG14",
+          "name": "Lý Sơn"
+        }
+      ]
+    },
+    {
+      "id": "49",
+      "code": "QM",
+      "name": "Quảng Nam",
+      "district": [
+        {
+          "id": "QM01",
+          "name": "TP.Tam Kỳ"
+        },
+        {
+          "id": "QM02",
+          "name": "TP.Hội An"
+        },
+        {
+          "id": "QM03",
+          "name": "TX.Điện Bàn"
+        },
+        {
+          "id": "QM04",
+          "name": "Bắc Trà My"
+        },
+        {
+          "id": "QM05",
+          "name": "Duy Xuyên"
+        },
+        {
+          "id": "QM06",
+          "name": "Đại Lộc"
+        },
+        {
+          "id": "QM07",
+          "name": "Đông Giang"
+        },
+        {
+          "id": "QM08",
+          "name": "Hiệp Đức"
+        },
+        {
+          "id": "QM09",
+          "name": "Nam Giang"
+        },
+        {
+          "id": "QM10",
+          "name": "Nam Trà My"
+        },
+        {
+          "id": "QM11",
+          "name": "Nông Sơn"
+        },
+        {
+          "id": "QM12",
+          "name": "Núi Thành"
+        },
+        {
+          "id": "QM13",
+          "name": "Phú Ninh"
+        },
+        {
+          "id": "QM14",
+          "name": "Phước Sơn"
+        },
+        {
+          "id": "QM15",
+          "name": "Quế Sơn"
+        },
+        {
+          "id": "QM16",
+          "name": "Tây Giang"
+        },
+        {
+          "id": "QM17",
+          "name": "Thăng Bình"
+        },
+        {
+          "id": "QM18",
+          "name": "Tiến Phước"
+        }
+      ]
+    },
+    {
+      "id": "22",
+      "code": "QN",
+      "name": "Quảng Ninh",
+      "district": [
+        {
+          "id": "QN01",
+          "name": "TP.Hạ Long"
+        },
+        {
+          "id": "QN02",
+          "name": "TP.Cẩm Phả"
+        },
+        {
+          "id": "QN03",
+          "name": "TP.Uông Bí"
+        },
+        {
+          "id": "QN04",
+          "name": "TP.Móng Cái"
+        },
+        {
+          "id": "QN05",
+          "name": "TX.Quảng Yên"
+        },
+        {
+          "id": "QN06",
+          "name": "TX.Đông Triều"
+        },
+        {
+          "id": "QN07",
+          "name": "Ba Chế"
+        },
+        {
+          "id": "QN08",
+          "name": "Bình Liêu"
+        },
+        {
+          "id": "QN09",
+          "name": "Đầm Hà"
+        },
+        {
+          "id": "QN10",
+          "name": "Hải Hà"
+        },
+        {
+          "id": "QN11",
+          "name": "Hoành Bồ"
+        },
+        {
+          "id": "QN12",
+          "name": "Tiên Yên"
+        },
+        {
+          "id": "QN13",
+          "name": "Cô Tô"
+        },
+        {
+          "id": "QN14",
+          "name": "Vân Đồn"
+        }
+      ]
+    },
+    {
+      "id": "45",
+      "code": "QT",
+      "name": "Quảng Trị",
+      "district": [
+        {
+          "id": "QT01",
+          "name": "TP.Đông Hà"
+        },
+        {
+          "id": "QT02",
+          "name": "TX.Quảng Trị"
+        },
+        {
+          "id": "QT03",
+          "name": "Cam Lộ"
+        },
+        {
+          "id": "QT04",
+          "name": "Đa Krông"
+        },
+        {
+          "id": "QT05",
+          "name": "Gio Linh"
+        },
+        {
+          "id": "QT06",
+          "name": "Hải Lăng"
+        },
+        {
+          "id": "QT07",
+          "name": "Hướng Hóa"
+        },
+        {
+          "id": "QT08",
+          "name": "Triệu Phong"
+        },
+        {
+          "id": "QT09",
+          "name": "Vĩnh Linh"
+        },
+        {
+          "id": "QT10",
+          "name": "Cồn Cỏ"
+        }
+      ]
+    },
+    {
+      "id": "14",
+      "code": "SL",
+      "name": "Sơn La",
+      "district": [
+        {
+          "id": "SL01",
+          "name": "TP.Sơn La"
+        },
+        {
+          "id": "SL02",
+          "name": "Bắc Yên"
+        },
+        {
+          "id": "SL03",
+          "name": "Mai Sơn"
+        },
+        {
+          "id": "SL04",
+          "name": "Mộc Châu"
+        },
+        {
+          "id": "SL05",
+          "name": "Mường La"
+        },
+        {
+          "id": "SL06",
+          "name": "Phù Yên"
+        },
+        {
+          "id": "SL07",
+          "name": "Quỳnh Nhai"
+        },
+        {
+          "id": "SL08",
+          "name": "Sông Mã"
+        },
+        {
+          "id": "SL09",
+          "name": "Sốp Cộp"
+        },
+        {
+          "id": "SL10",
+          "name": "Thuận Châu"
+        },
+        {
+          "id": "SL11",
+          "name": "Vân Hồ"
+        },
+        {
+          "id": "SL12",
+          "name": "Yên Châu"
+        }
+      ]
+    },
+    {
+      "id": "94",
+      "code": "ST",
+      "name": "Sóc Trăng",
+      "district": [
+        {
+          "id": "ST01",
+          "name": "TP.Sóc Trăng"
+        },
+        {
+          "id": "ST02",
+          "name": "TX.Ngã Năm"
+        },
+        {
+          "id": "ST03",
+          "name": "TX.Vĩnh Châu"
+        },
+        {
+          "id": "ST04",
+          "name": "Châu Thành"
+        },
+        {
+          "id": "ST05",
+          "name": "Cù Lao Dung"
+        },
+        {
+          "id": "ST06",
+          "name": "Kế Sách"
+        },
+        {
+          "id": "ST07",
+          "name": "Long Phú"
+        },
+        {
+          "id": "ST08",
+          "name": "Mỹ Tú"
+        },
+        {
+          "id": "ST09",
+          "name": "Mỹ Xuyên"
+        },
+        {
+          "id": "ST10",
+          "name": "Thạch Trị"
+        },
+        {
+          "id": "ST11",
+          "name": "Trần Đề"
+        }
+      ]
+    },
+    {
+      "id": "34",
+      "code": "TB",
+      "name": "Thái Bình",
+      "district": [
+        {
+          "id": "TB01",
+          "name": "TP.Thái Bình"
+        },
+        {
+          "id": "TB02",
+          "name": "Đông Hưng"
+        },
+        {
+          "id": "TB03",
+          "name": "Hưng Hà"
+        },
+        {
+          "id": "TB04",
+          "name": "Kiến Xương"
+        },
+        {
+          "id": "TB05",
+          "name": "Quỳnh Phụ"
+        },
+        {
+          "id": "TB06",
+          "name": "Thái Thụy"
+        },
+        {
+          "id": "TB07",
+          "name": "Tiền Hải"
+        },
+        {
+          "id": "TB08",
+          "name": "Vũ Thư"
+        }
+      ]
+    },
+    {
+      "id": "82",
+      "code": "TG",
+      "name": "Tiền Giang",
+      "district": [
+        {
+          "id": "TG01",
+          "name": "TP.Mỹ Tho"
+        },
+        {
+          "id": "TG02",
+          "name": "TX.Gò Bông"
+        },
+        {
+          "id": "TG03",
+          "name": "TX.Cai Lậy"
+        },
+        {
+          "id": "TG04",
+          "name": "Cai Lậy"
+        },
+        {
+          "id": "TG05",
+          "name": "Cái Bè"
+        },
+        {
+          "id": "TG06",
+          "name": "Châu Thành"
+        },
+        {
+          "id": "TG07",
+          "name": "Chợ Gạo"
+        },
+        {
+          "id": "TG08",
+          "name": "Gò Công Đông"
+        },
+        {
+          "id": "TG09",
+          "name": "Gò Công Tây"
+        },
+        {
+          "id": "TG10",
+          "name": "Tân Phú Đông"
+        },
+        {
+          "id": "TG11",
+          "name": "Tân Phước"
+        }
+      ]
+    },
+    {
+      "id": "38",
+      "code": "TH",
+      "name": "Thanh Hóa",
+      "district": [
+        {
+          "id": "TH01",
+          "name": "TP.Thanh Hóa"
+        },
+        {
+          "id": "TH02",
+          "name": "TX.Bỉm Sơn"
+        },
+        {
+          "id": "TH03",
+          "name": "TX.Sầm Sơn"
+        },
+        {
+          "id": "TH04",
+          "name": "Bá Thước"
+        },
+        {
+          "id": "TH05",
+          "name": "Cẩm Thủy"
+        },
+        {
+          "id": "TH06",
+          "name": "Đông Sơn"
+        },
+        {
+          "id": "TH07",
+          "name": "Hà Trung"
+        },
+        {
+          "id": "TH08",
+          "name": "Hậu Lộc"
+        },
+        {
+          "id": "TH09",
+          "name": "Hoằng Hóa"
+        },
+        {
+          "id": "TH10",
+          "name": "Lang Chánh"
+        },
+        {
+          "id": "TH11",
+          "name": "Mường Lát"
+        },
+        {
+          "id": "TH12",
+          "name": "Nga Sơn"
+        },
+        {
+          "id": "TH13",
+          "name": "Ngọc Lặc"
+        },
+        {
+          "id": "TH14",
+          "name": "Như Thanh"
+        },
+        {
+          "id": "TH15",
+          "name": "Như Xuân"
+        },
+        {
+          "id": "TH16",
+          "name": "Nông Cống"
+        },
+        {
+          "id": "TH17",
+          "name": "Quan Hóa"
+        },
+        {
+          "id": "TH18",
+          "name": "Quan Sơn"
+        },
+        {
+          "id": "TH19",
+          "name": "Quảng Xương"
+        },
+        {
+          "id": "TH20",
+          "name": "Thạch Thành"
+        },
+        {
+          "id": "TH21",
+          "name": "Thiệu Hóa"
+        },
+        {
+          "id": "TH22",
+          "name": "Thọ Xuân"
+        },
+        {
+          "id": "TH23",
+          "name": "Thường Xuân"
+        },
+        {
+          "id": "TH24",
+          "name": "Tĩnh Gia"
+        },
+        {
+          "id": "TH25",
+          "name": "Triệu Sơn"
+        },
+        {
+          "id": "TH26",
+          "name": "Vĩnh Lộc"
+        },
+        {
+          "id": "TH27",
+          "name": "Yên Định"
+        }
+      ]
+    },
+    {
+      "id": "72",
+      "code": "TI",
+      "name": "Tây Ninh",
+      "district": [
+        {
+          "id": "TI01",
+          "name": "TP.Tây Ninh"
+        },
+        {
+          "id": "TI02",
+          "name": "Bến Cầu"
+        },
+        {
+          "id": "TI03",
+          "name": "Châu Thành"
+        },
+        {
+          "id": "TI04",
+          "name": "Dương Minh Châu"
+        },
+        {
+          "id": "TI05",
+          "name": "Gò Dầu"
+        },
+        {
+          "id": "TI06",
+          "name": "Hòa Thành"
+        },
+        {
+          "id": "TI06",
+          "name": "Tân Biên"
+        },
+        {
+          "id": "TI08",
+          "name": "Tân Châu"
+        },
+        {
+          "id": "TI09",
+          "name": "Trảng Bàng"
+        }
+      ]
+    },
+    {
+      "id": "19",
+      "code": "TN",
+      "name": "Thái Nguyên",
+      "district": [
+        {
+          "id": "TN01",
+          "name": "TP.Thái Nguyên"
+        },
+        {
+          "id": "TN02",
+          "name": "TP.Sông Công"
+        },
+        {
+          "id": "TN03",
+          "name": "TX.Phố Yên"
+        },
+        {
+          "id": "TN04",
+          "name": "Đại Từ"
+        },
+        {
+          "id": "TN05",
+          "name": "Định Hóa"
+        },
+        {
+          "id": "TN06",
+          "name": "Đồng Hý"
+        },
+        {
+          "id": "TN07",
+          "name": "Phú Bình"
+        },
+        {
+          "id": "TN08",
+          "name": "Phú Lương"
+        },
+        {
+          "id": "TN09",
+          "name": "Võ Nhai"
+        }
+      ]
+    },
+    {
+      "id": "8",
+      "code": "TQ",
+      "name": "Tuyên Quang",
+      "district": [
+        {
+          "id": "TQ01",
+          "name": "TP.Tuyên Quang"
+        },
+        {
+          "id": "TQ02",
+          "name": "Chiêm Hóa"
+        },
+        {
+          "id": "TQ03",
+          "name": "Hàm Yên"
+        },
+        {
+          "id": "TQ04",
+          "name": "Lâm Bình"
+        },
+        {
+          "id": "TQ05",
+          "name": "Na Hang"
+        },
+        {
+          "id": "TQ06",
+          "name": "Sơn Dương"
+        },
+        {
+          "id": "TQ07",
+          "name": "Yên Sơn"
+        }
+      ]
+    },
+    {
+      "id": "46",
+      "code": "TU",
+      "name": "Thừa Thiên Huế",
+      "district": [
+        {
+          "id": "TU01",
+          "name": "TP.Huế"
+        },
+        {
+          "id": "TU02",
+          "name": "TX.Hương Thúy"
+        },
+        {
+          "id": "TU03",
+          "name": "TX.Hương Trà"
+        },
+        {
+          "id": "TU04",
+          "name": "A Lưới"
+        },
+        {
+          "id": "TU05",
+          "name": "Nam Đông"
+        },
+        {
+          "id": "TU06",
+          "name": "Phong Điền"
+        },
+        {
+          "id": "TU07",
+          "name": "Phú Lộc"
+        },
+        {
+          "id": "TU08",
+          "name": "Phú Vang"
+        },
+        {
+          "id": "TU09",
+          "name": "Quảng Điền"
+        }
+      ]
+    },
+    {
+      "id": "84",
+      "code": "TV",
+      "name": "Trà Vinh",
+      "district": [
+        {
+          "id": "TV01",
+          "name": "TP.Trà Vinh"
+        },
+        {
+          "id": "TV02",
+          "name": "TX.Duyên Hải"
+        },
+        {
+          "id": "TV03",
+          "name": "Càng Long"
+        },
+        {
+          "id": "TV04",
+          "name": "Cầu Kè"
+        },
+        {
+          "id": "TV05",
+          "name": "Cầu Ngang"
+        },
+        {
+          "id": "TV06",
+          "name": "Châu Thành"
+        },
+        {
+          "id": "TV07",
+          "name": "Duyên Hải"
+        },
+        {
+          "id": "TV08",
+          "name": "Tiểu Cần"
+        },
+        {
+          "id": "TV09",
+          "name": "Trà Cú"
+        }
+      ]
+    },
+    {
+      "id": "86",
+      "code": "VL",
+      "name": "Vĩnh Long",
+      "district": [
+        {
+          "id": "VL01",
+          "name": "TP.Vĩnh Long"
+        },
+        {
+          "id": "VL02",
+          "name": "TX.Bình Minh"
+        },
+        {
+          "id": "VL03",
+          "name": "Bình Tân"
+        },
+        {
+          "id": "VL04",
+          "name": "Long Hồ"
+        },
+        {
+          "id": "VL05",
+          "name": "Mang Thít"
+        },
+        {
+          "id": "VL06",
+          "name": "Tam Bình"
+        },
+        {
+          "id": "VL07",
+          "name": "Trà Ôn"
+        },
+        {
+          "id": "VL08",
+          "name": "Vũng Liêm"
+        }
+      ]
+    },
+    {
+      "id": "26",
+      "code": "VP",
+      "name": "Vĩnh Phúc",
+      "district": [
+        {
+          "id": "VP01",
+          "name": "TP.Vĩnh Yên"
+        },
+        {
+          "id": "VP02",
+          "name": "TX.Phúc Yên"
+        },
+        {
+          "id": "VP03",
+          "name": "Bình Xuyên"
+        },
+        {
+          "id": "VP04",
+          "name": "Lập Thạch"
+        },
+        {
+          "id": "VP05",
+          "name": "Sông Lô"
+        },
+        {
+          "id": "VP06",
+          "name": "Tam Dương"
+        },
+        {
+          "id": "VP07",
+          "name": "Tam Đảo"
+        },
+        {
+          "id": "VP08",
+          "name": "Vĩnh Tường"
+        },
+        {
+          "id": "VP09",
+          "name": "Yên Lạc"
+        }
+      ]
+    },
+    {
+      "id": "77",
+      "code": "VT",
+      "name": "Bà Rịa-Vũng Tàu",
+      "district": [
+        {
+          "id": "VT01",
+          "name": "TP.Vũng Tàu"
+        },
+        {
+          "id": "VT02",
+          "name": "TP.Bà Rịa"
+        },
+        {
+          "id": "VT03",
+          "name": "Châu Đức"
+        },
+        {
+          "id": "VT04",
+          "name": "Đất Đỏ"
+        },
+        {
+          "id": "VT05",
+          "name": "Long Điền"
+        },
+        {
+          "id": "VT06",
+          "name": "Tân Thành"
+        },
+        {
+          "id": "VT07",
+          "name": "Xuyên Mộc"
+        },
+        {
+          "id": "VT08",
+          "name": "Côn Đảo"
+        }
+      ]
+    },
+    {
+      "id": "15",
+      "code": "YB",
+      "name": "Yên Bái",
+      "district": [
+        {
+          "id": "YB01",
+          "name": "TP.Yên bái"
+        },
+        {
+          "id": "YB02",
+          "name": "Nghĩa Lộ"
+        },
+        {
+          "id": "YB03",
+          "name": "Lục Yên"
+        },
+        {
+          "id": "YB04",
+          "name": "Mù Căng Chải"
+        },
+        {
+          "id": "YB05",
+          "name": "Trạm Tấu"
+        },
+        {
+          "id": "YB06",
+          "name": "Trấn Yên"
+        },
+        {
+          "id": "YB07",
+          "name": "Văn Chấn"
+        },
+        {
+          "id": "YB08",
+          "name": "Văn Yên"
+        },
+        {
+          "id": "YB09",
+          "name": "Yên Bình"
+        }
+      ]
+    }
+  ]
